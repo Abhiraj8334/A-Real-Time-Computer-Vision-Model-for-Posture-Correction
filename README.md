@@ -1,0 +1,2 @@
+# A-Real-Time-Computer-Vision-Model-for-Posture-Correction
+Prolonged computer usage leads to posture-related health issues Common issues: back pain, neck strain, spinal problems This project focuses on real-time posture monitoring Uses computer vision instead of wearable sensors Provides instant feedback to correct posture System works continuously in the background  , Designed for students &amp; professionals
